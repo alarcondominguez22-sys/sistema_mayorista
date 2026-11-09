@@ -1,0 +1,6 @@
+# Credenciales privadas y archivos de entorno
+conexion/credenciales.local.php
+.env
+.env.*
+!.env.example
+
